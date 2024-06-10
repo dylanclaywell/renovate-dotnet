@@ -21,6 +21,10 @@
       ],
       "dependencyDashboardApproval": false,
       "stabilityDays": 0
+    },
+    {
+      "matchUpdateTypes": ["major"],
+      "enabled": true
     }
   ]
 }
